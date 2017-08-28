@@ -1,3 +1,3 @@
 # Clonespotify.
 
-Página disponível para visualização em https://andresds.github.io/clonespotify/index.html.
+Página disponível para visualização em https://andresds.github.io/clonespotify.
