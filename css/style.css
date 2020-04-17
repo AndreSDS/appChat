@@ -21,7 +21,7 @@ div#container div.main{
     margin: 0 auto;
     height: 100%;
     width: 1396px;
-    background-color: #e6e6e6;
+    background-color: #ededed;
     display: grid;
     grid-template-columns: 1fr 2fr;
 }
